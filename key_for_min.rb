@@ -14,6 +14,6 @@ def key_for_min_value(name_hash)
     # if name_hash[key]==min_value
     #   return key
     # end
-    puts key, value
+    puts min_value
  end
 end
